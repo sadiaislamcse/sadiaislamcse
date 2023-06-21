@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sadiaislam/" target="blank">Sadia Islam</a></h1>
-<h3 align="center">I'm passionate programmer and web developer from Bangladesh</h3>
+<h3 align="center">I'm passionate Programmer and Android Developer from Bangladesh</h3>
 I'm a CSE Student.
 Currently, I'm pursuing my final year in Computer Science And Engineering from Daffodil International University. Throughout my academic journey, I have been immersed in a wide range of coursework, equipping me with the knowledge and skills necessary to become a successful computer engineer.
 
