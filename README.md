@@ -26,9 +26,6 @@ Skills: C, Java, Python, dart, flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaislamcse&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadiaislamcse)  
-
-![Profile views](https://gpvc.arturio.dev/sadiaislamcse)  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
