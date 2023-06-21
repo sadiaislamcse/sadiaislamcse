@@ -10,7 +10,7 @@ In addition to my love for learning, I have a strong desire to share my knowledg
 
 Skills: C, Java, Python, dart, flutter
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 </a>
 
 - 🔭 I’m currently working on My Study to develop myself
