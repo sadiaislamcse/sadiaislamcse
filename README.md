@@ -22,21 +22,21 @@ Skills: C, Java, Python, dart, flutter
 - 📫 How to reach me "#"
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiancse)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaislamcse)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaislamcse&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abusufiancse)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadiaislamcse)  
 
-![Profile views](https://gpvc.arturio.dev/abusufiancse)  
+![Profile views](https://gpvc.arturio.dev/sadiaislamcse)  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abusufiancse/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sadia/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/abusufiancse/">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sadiaislamcse/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
