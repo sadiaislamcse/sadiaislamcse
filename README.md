@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sadiaislamcse/" target="blank">Sadia Islam</a></h1>
-<h3 align="center">Machine Learning Enthusiast | AI Researcher | Developer from Bangladesh</h3>
+<h3 align="center">Machine Learning Enthusiast | AI Researcher | Data Analyst </h3>
 
 
 🎓 I recently graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University** .  
