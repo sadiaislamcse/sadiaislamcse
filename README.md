@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sadiaislamcse/" target="blank">Sadia Islam</a></h1>
 <h3 align="center">Machine Learning Enthusiast | AI Researcher | Developer from Bangladesh</h3>
 
-<a target="_blank" align="right">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-</a>
 
-🎓 I recently graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University** (CGPA: 3.45/4.00).  
+🎓 I recently graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University** .  
 🔬 My academic journey includes **hands-on research and publications** in Machine Learning and Explainable AI.  
 💡 I’m passionate about building intelligent systems, analyzing data, and solving real-world problems through AI and data science.
 
