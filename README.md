@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadia Islam</h1>
 
-<h3 align="center">Agentic AI & Automation Engineer | Browser Automation | CRM Workflow Automation</h3>
+<h3 align="center">Agentic AI & Automation Engineer | ML,DL, NLP | CRM Workflow Automation</h3>
 
 <p align="center">
   🎓 B.Sc. in Computer Science and Engineering, Daffodil International University<br>
