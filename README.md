@@ -13,15 +13,6 @@ Academic background in hands-on research and publications in Machine Learning an
 Passionate about intelligent automation — browser agents, multi-agent pipelines, and no-code/API-driven workflows that solve real business problems
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadiaislamcse">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sadiaislamcse">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### Core Focus Areas
@@ -81,17 +72,4 @@ Passionate about intelligent automation — browser agents, multi-agent pipeline
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiaislamcse&show_icons=true&theme=default&hide_border=true" alt="Sadia's GitHub Stats" />
-</p>
-
----
-
-### Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadiaislamcse">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sadiaislamcse">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
