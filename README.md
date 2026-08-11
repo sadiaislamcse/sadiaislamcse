@@ -1,48 +1,49 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sadiaislamcse/" target="blank">Sadia Islam</a></h1>
-<h3 align="center">Machine Learning Enthusiast | AI Agent Developer | Data Analyst </h3>
+<h1 align="center">Hi 👋, I'm Sadia Islam</h1>
 
-🎓 I recently graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University** .
-🔬 My academic journey includes **hands-on research and publications** in Machine Learning and Explainable AI.
-💡 I’m passionate about building intelligent systems, AI agents, and solving real-world problems through AI and automation.
+<h3 align="center">Agentic AI & Automation Engineer | Browser Automation | CRM Workflow Automation</h3>
 
----
-
-### 🧠 What I Love Working On
-- Building AI Agents & Browser Automation
-- Machine Learning & Deep Learning Projects
-- Natural Language Processing & AI Research
-- Data Analysis, Visualization & Storytelling
-- Building Web Apps with Functional Logic
-- Writing and Sharing Knowledge
+<p align="center">
+  🎓 B.Sc. in Computer Science and Engineering, Daffodil International University<br>
+  🤖 Associate Web Developer @ Accord Tech Solutions — building agentic AI systems that automate Salesforce & Studio Designer CRM workflows with Python, Playwright, and Claude Code<br>
+  📊 My academic journey includes hands-on research and publications in Machine Learning and Explainable AI<br>
+  💡 Passionate about building intelligent automation systems — browser agents, multi-agent pipelines, and no-code/API-driven workflows that solve real business problems
+</p>
 
 ---
 
-### 🤖 AI Agent Projects
-- 🔍 [**CRM Account Research Agent**](https://github.com/sadiaislamcse/crm-account-research-agent) – Playwright-based browser automation agent that verifies and updates Salesforce CRM records from a spreadsheet, with a full colour-coded audit trail.
-- 📱 [**Social Media AI Agent**](https://github.com/sadiaislamcse/Social-Media-AI-Agent) – Autonomous, Telegram-controlled Facebook content agent using Groq LLaMA for writing and Stability AI for images, hosted 24/7 in the cloud.
-- 📊 **CRM Item Listing Agent** – Automates Excel-to-CRM data entry into Studio Designer using Playwright and Claude Code.
-- ⚙️ [**Multi-CRM Agent**](https://github.com/sadiaislamcse/Multi-CRM-Agent) – A configurable agent framework for automating tasks across multiple CRM platforms.
+### 🌱 What I Love Working On
+
+- 🤖 Building Agentic AI Systems & Multi-Agent Automation
+- 🌐 Browser Automation (Playwright, Selenium, CDP-attach, anti-bot handling)
+- 🔗 CRM & Workflow Automation (Salesforce, Studio Designer, Make.com)
+- 📊 ETL Pipelines, Data Extraction & Excel/Google Sheets Automation
+- 🧠 Machine Learning & Explainable AI Research
 
 ---
 
-### 📚 Featured Work & Publications
-- 🧬 [**Cervical Cancer Detection using ML & Explainable AI**](https://doi.org/10.1016/j.jpi.2024.100398) – *Journal of Pathology Informatics*
-- 🌿 [**Tree Leaf Classification Dataset**](https://data.mendeley.com/datasets/bgmftbm8zt/2) – Mendeley Data
+### 🚀 Featured Work
+
+- 🔹 **Multi-Agent CRM Automation Agent** — Salesforce & Studio Designer CRM automation where one main agent runs specialized sub-agents for contact research and billing item listing *(private client project)*
+- 🔹 **SD TitleFinder Agent** — resumable Playwright pipeline that finds job titles & LinkedIn profiles for ~1,460 contacts, with confidence-based matching and checkpoint/resume support *(private client project)*
+- 🔹 **Social Media AI Agent** — autonomous agent that writes, schedules, and publishes Facebook/Instagram posts, controllable via a Telegram bot; also rebuilt as a no-code Make.com workflow with Blueprint-API-managed scenarios — [GitHub Repo](https://github.com/sadiaislamcse)
+
+### 📄 Publications
+
+- 📝 [**A Precise Machine Learning Model: Detecting Cervical Cancer Using Feature Selection and Explainable AI**](https://doi.org/10.1016/j.jpi.2024.100398) — *Journal of Pathology Informatics*, Sept 2024
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Stack
 
-**Languages**: Python, SQL, LaTeX
-**AI Agents & Automation**: Playwright, LLM APIs (Groq, Claude), Telegram Bot API, Facebook Graph API
-**ML & AI**: Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face, NLTK
-**Data**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-**Dev Tools**: Jupyter, Google Colab, VS Code, Git
-**Soft Skills**: Research, Critical Thinking, Time Management, Teamwork
+**Automation & Agents:** Python, Playwright, Selenium, Claude Code, Agentic AI, Multi-Agent Systems
+**APIs & Integration:** REST APIs, Salesforce API, Make.com Blueprint API
+**Data & ETL:** openpyxl, Pandas, NumPy, Excel/Google Sheets Automation, Data Validation
+**ML & AI:** Scikit-learn, TensorFlow, PyTorch, Keras, NLP, Hugging Face
+**DevOps:** Docker, Git & GitHub, GitHub Actions (CI/CD), Railway
 
 ---
 
-### 🌱 Currently Learning & Exploring
-- NLP with Hugging Face Transformers 🤖
-- Data Storytelling with Power BI 📊
-- Real-world projects through internship at **Future Interns**
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiaislamcse)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadiaislamcse)
